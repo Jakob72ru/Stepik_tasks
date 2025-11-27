@@ -11,6 +11,10 @@
 **Примечание 1.** Гарантируется, что экземпляры декорируемого класса всегда имеют атрибут, который содержит их
 идентификатор.
 
+Ссылка на задачу на площадке - https://stepik.org/lesson/835206/step/16?unit=838840
+
+## Решeние
+```
 from functools import wraps
 
 def limiter(limit, unique, lookup):
@@ -48,3 +52,4 @@ def limiter(limit, unique, lookup):
         cls.__new__ = new_new
         return cls
     return decorator
+```
