@@ -11,8 +11,7 @@
 **Примечание 1.** Гарантируется, что экземпляры декорируемого класса всегда имеют атрибут, который содержит их
 идентификатор.
 
-Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_8/Module_8.5/Module_8.5.16
-
+Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_8/Module_8.5/Module_8.5.16<br>
 Ссылка на задачу на площадке - https://stepik.org/lesson/835206/step/16?unit=838840
 
 ## Решeние

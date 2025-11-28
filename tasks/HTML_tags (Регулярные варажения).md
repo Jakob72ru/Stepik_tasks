@@ -15,7 +15,8 @@
 
 Теги, а также атрибуты тегов, должны быть расположены в лексикографическом порядке.
 
-ссылка на задачу на площадке - https://stepik.org/lesson/680265/step/17?unit=678923
+Тестовые данные доступны по ссылке - https://github.com/python-generation/Professional/tree/main/Module_11/Module_11.7/Module_11.7.17<br>
+Ссылка на задачу на площадке - https://stepik.org/lesson/680265/step/17?unit=678923
 
 ## Решение
 ```

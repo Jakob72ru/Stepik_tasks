@@ -24,8 +24,7 @@
 
 **Примечание 3.** Никаких ограничений касательно реализаций классов нет, они могут быть произвольными.
 
-Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_7/Module_7.8/Module_7.8.13/
-
+Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_7/Module_7.8/Module_7.8.13/<br>
 Ссылка на задачу на площадке - https://stepik.org/lesson/804638/step/13?unit=807762
 
 ## Решение

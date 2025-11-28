@@ -24,8 +24,7 @@
 
 **Примечание 5.** Класс ```TreeBuilder``` должен удовлетворять протоколу контекстного менеджера, то есть иметь методы ```__enter__()``` и ```__exit__()```. Реализация же протокола может быть произвольной.
 
-Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_6/Module_6.5/Module_6.5.17
-
+Тестовые данные доступны по ссылке - https://github.com/python-generation/OOP/tree/main/Module_6/Module_6.5/Module_6.5.17<br>
 Ссылка на задачу на площадке - https://stepik.org/lesson/933767/step/17?unit=939666
 
 ## Решение
